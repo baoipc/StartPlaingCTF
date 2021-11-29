@@ -36,6 +36,6 @@ CTF có tên là capture the flag, là game dành cho giới CNTT nói chung và
 - crypto
 - RE
 ## Một số Web để chơi CTF 
-[1](https://ctftime.org/)
-[2](https://cryptohack.org/)
-[3](https://picoctf.org/)
+<a href="https://ctftime.org/" target="_blank">1</a>
+<a href="https://cryptohack.org/" target="_blank">2</a>
+<a href="https://picoctf.org/" target="_blank">3</a>

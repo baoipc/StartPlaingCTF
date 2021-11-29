@@ -4,7 +4,7 @@ CTF có tên là capture the flag, là game dành cho giới CNTT nói chung và
 > À thật ra, do mình nghĩ vậy thôi. Chứ ngành nào hiện tại của CNTT cũng cần biết chút chút về bảo mật. Mình thấy nhu cầu về bảo mật thông tin là nhu cầu thiết yếu vì hiện tại đang trong thời kì đại dịch Covid 19 nên làm việc online chua bao giờ hạ nhiệt
 ### 2.Chuẩn bị gì trước khi chơi CTF
 - Lập trình vững: vững ở đây là chuyên sâu 1 ngôn ngữ lập trình mà nhiều người sử dụng (thường là C++ và Python)
-> À, nhân tiện mình cũng có tìm hiểu là chỉ có 2 loại ngôn ngũ: ngôn ngữ không ai dùng và ngôn ngữ bị ăn chửi nhiều
+> À, nhân tiện mình cũng có tìm hiểu là chỉ có 2 loại ngôn ngữ: ngôn ngữ không ai dùng và ngôn ngữ bị ăn chửi nhiều (này do mình tìm hiểu) :v
 - Giải thuật mức ổn: biết được nhiều thuật toán hay, không nên chạy bài toán ở mức trâu bò 
 - Hiểu về network: mình nghĩ là tìm hiểu về mảng web
 - Kiến thức về OS (Operating System): Linux, Windows, ... 
